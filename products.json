@@ -10,5 +10,9 @@
     {
         "id": 3,
         "name": "Chevrolet"
+    },
+    {
+        "id": 3,
+        "name": "Tesla"
     }
 ]
